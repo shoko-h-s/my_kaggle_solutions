@@ -1,1 +1,1 @@
-# my_kaggle_solutions
+Kaggleの練習用リポジトリです。
